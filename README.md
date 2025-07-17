@@ -23,4 +23,4 @@ Welcome to my portfolio, where I showcase my Projects
 
 ### 👋🏻 Connect with Me
 
-- [Linkedin]((https://www.linkedin.com/in/chidera-nnamdi/))
+- [Linkedin]([https://www.linkedin.com/in/chidera-nnamdi/])
